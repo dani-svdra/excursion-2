@@ -22,3 +22,11 @@ color: #ffffff;
     font-size: 21px;
     color: grey;
 }
+
+/* FOOTER */
+
+.footer--copyright {
+    font-size: 21xp;
+    color: gray;
+    text-align: right;
+}
